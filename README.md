@@ -1,7 +1,6 @@
-							  Fast Image Deconvolution with Incomplete Observations
+## Fast Image Deconvolution with Incomplete Observations
 
-What is this?
--------------
+### What is this?
 
 This set of files allows one to reproduce the experiments discussed in [1].
 
@@ -17,20 +16,15 @@ See the file LICENSE for copying conditions.
 Kindly report any suggestions or corrections to miguel.simoes@lx.it.pt 
 
 
-Release date
-------------
-
+### Release date
 June 2016
 
 
-Where can it be found?
---------------------
-
+### Where can it be found?
 https://github.com/alfaiate/DeconvolutionIncompleteObs
 
 
-How to use it?
---------------
+### How to use it?
 
 There are three folders:
 
@@ -49,14 +43,12 @@ Run the scripts from the 'demos' folder to generate the following experiments:
     'run_graphs_all.m': runs the last four scripts.
   
   
-System-specific Notes
----------------------
+### System-specific Notes
 
 This version of DeconvolutionIncompleteObs was tested using MATLAB R2015a on a Windows 10 machine.
 
 
-Licensing
----------
+### Licensing
 
 Copyright (C) 2016 Miguel Simoes
  
@@ -73,8 +65,7 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 
-Contact Information:
---------------------
+### Contact Information:
 
     Miguel Simoes:      miguel.simoes@lx.it.pt 
     Jose Bioucas-Dias:  bioucas@lx.it.pt 
@@ -84,7 +75,7 @@ Contact Information:
 Miguel Simoes is with Instituto de Telecomunicacoes, Instituto Superior 
 Tecnico, Universidade de Lisboa, Lisbon, Portugal and GIPSA-Lab, 
 Universite de Grenoble, France.
-José Bioucas-Dias and Luis B. Almeida are with Instituto de 
+JosÃ© Bioucas-Dias and Luis B. Almeida are with Instituto de 
 Telecomunicacoes, Instituto Superior Tecnico, Universidade de Lisboa, 
 Lisbon, Portugal.
 Jocelyn Chanussot is with GIPSA-Lab, Grenoble Institute of Technology, 
@@ -95,4 +86,3 @@ This work was partially supported by the Fundacao para a Ciencia e
 Tecnologia, Portuguese Ministry of Science and Higher Education, 
 project PEst-OE/EEI/0008/2013, and 
 grant SFRH/BD/87693/2012.
--------------------------------------------------------------------------------# DeconvolutionIncompleteObs
